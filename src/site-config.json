@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Miles & Sons Cement",
+    "phone": "+15043641042",
+    "category": "concrete contractor",
+    "city": "New Orleans",
+    "state": "LA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "New Orleans' Concrete Authority",
+      "heroSubline": "Durable concrete solutions built to withstand the Louisiana climate. Quality craftsmanship for homes and businesses.",
+      "aboutTitle": "Decades of Concrete Expertise in New Orleans",
+      "aboutText": [
+        "Miles & Sons Cement started with a simple mission: to provide reliable and lasting concrete work throughout the New Orleans area. From humble beginnings, we've grown into a trusted name, poured over countless projects, and built a reputation on hard work and integrity.",
+        "Our approach is straightforward. We assess each project meticulously, use only quality materials tailored to our unique climate, and execute with precision. We believe in clear communication, transparent pricing, and delivering results that exceed expectations. We understand the challenges posed by the New Orleans environment, and we build accordingly.",
+        "We're proud to be a part of the New Orleans community. We source materials locally whenever possible, support local initiatives, and strive to contribute to the city's growth and resilience. We treat every project, big or small, with the same level of care and dedication."
+      ],
+      "valueProps": [
+        {
+          "title": "Proven Durability",
+          "description": "Concrete solutions designed to withstand New Orleans' humidity, flooding, and termite threats."
+        },
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Experienced professionals delivering precise and lasting concrete work."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear and upfront estimates with no hidden fees or surprises."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of New Orleans' unique building codes and environmental factors."
+        }
+      ],
+      "ctaHeadline": "Get a Free Concrete Estimate",
+      "ctaSubline": "Contact Miles & Sons Cement today for reliable and durable concrete solutions."
+    },
+    "services": [
+      {
+        "slug": "driveway-installation",
+        "name": "Driveway Installation",
+        "shortDescription": "Durable and attractive driveways built to last in New Orleans.",
+        "description": "A new driveway isn't just about curb appeal; it's about functionality and longevity, especially in a place like New Orleans. We specialize in driveway installations that can withstand the unique challenges of our climate – from intense humidity and flooding to the persistent threat of termites undermining the base. We start with proper site preparation, ensuring a stable foundation that prevents cracking and shifting. Our team uses reinforced concrete mixes designed for heavy use and weather resistance. We offer a variety of finishes, from traditional broom finishes to decorative stamped concrete, to complement your home's architecture. We handle everything from excavation and grading to pouring, finishing, and sealing. We also ensure proper drainage to mitigate water damage from frequent heavy rains. We understand local building codes and obtain necessary permits to ensure compliance. A well-built driveway adds value to your property and provides a safe, reliable surface for years to come.",
+        "process": [
+          "Step 1: Site Evaluation and Design – We assess your property and discuss your driveway needs and design preferences.",
+          "Step 2: Excavation and Grading – We prepare the site by removing existing materials and establishing proper grading for drainage.",
+          "Step 3: Concrete Pouring and Finishing – We pour and finish the concrete with precision, ensuring a smooth and durable surface.",
+          "Step 4: Curing and Sealing – We properly cure the concrete to maximize strength and seal it to protect against the elements."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced curb appeal",
+          "Improved drainage",
+          "Long-lasting durability"
+        ],
+        "faq": [
+          {
+            "question": "How long does driveway installation take?",
+            "answer": "Most driveway installations take between 3-5 days, depending on the size and complexity of the project."
+          },
+          {
+            "question": "What type of concrete is best for driveways in New Orleans?",
+            "answer": "We recommend a reinforced concrete mix with a high PSI rating to withstand heavy loads and extreme weather conditions."
+          },
+          {
+            "question": "Do I need a permit for driveway installation?",
+            "answer": "Yes, in most cases, a permit is required for driveway installation in New Orleans. We handle the permit process for you."
+          }
+        ]
+      },
+      {
+        "slug": "patio-construction",
+        "name": "Patio Construction",
+        "shortDescription": "Custom patios designed to enhance your outdoor living space.",
+        "description": "Extend your living space outdoors with a custom-designed patio from Miles & Sons Cement. We build patios that are both beautiful and functional, perfect for entertaining or relaxing in the New Orleans climate. From simple concrete slabs to elaborate multi-level designs, we can create a patio that meets your specific needs and style. We offer a variety of finishes, including stamped concrete, exposed aggregate, and colored concrete, to create a unique look. We also consider factors like drainage and sun exposure to ensure your patio remains comfortable and durable. Our patios are built to withstand the humidity and occasional flooding that are common in our area. We use high-quality materials and proven construction techniques to ensure your patio will last for years to come. We handle all aspects of the project, from design and excavation to pouring and finishing. Let us help you create the perfect outdoor oasis.",
+        "process": [
+          "Step 1: Design Consultation – We work with you to design a patio that meets your needs and complements your home.",
+          "Step 2: Site Preparation – We prepare the site by excavating and leveling the ground.",
+          "Step 3: Concrete Pouring and Finishing – We pour and finish the concrete to create a smooth, durable surface.",
+          "Step 4: Sealing and Finishing Touches – We seal the concrete to protect it from the elements and add any finishing touches."
+        ],
+        "benefits": [
+          "Increased outdoor living space",
+          "Enhanced property value",
+          "Custom design options",
+          "Durable and long-lasting"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for a patio in New Orleans?",
+            "answer": "Concrete is an excellent choice for patios in New Orleans due to its durability and resistance to moisture and termites. We can also incorporate other materials like brick or stone for accents."
+          },
+          {
+            "question": "How much does a concrete patio cost?",
+            "answer": "The cost of a concrete patio varies depending on the size, design, and finish. Contact us for a free estimate."
+          },
+          {
+            "question": "Do I need a permit for patio construction?",
+            "answer": "In some cases, a permit is required for patio construction in New Orleans. We can help you determine if a permit is needed and handle the application process."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-repairs",
+        "name": "Concrete Repairs",
+        "shortDescription": "Reliable concrete repair services to restore the integrity of your property.",
+        "description": "From cracked sidewalks to damaged foundations, Miles & Sons Cement provides comprehensive concrete repair services throughout New Orleans. We understand the unique challenges that our climate poses to concrete structures, including moisture damage, erosion, and settlement issues. We use proven repair techniques and high-quality materials to restore the strength and appearance of your concrete surfaces. Our services include crack repair, patching, resurfacing, and foundation repair. We begin with a thorough assessment of the damage to determine the best course of action. We then execute the repairs with precision and attention to detail, ensuring a long-lasting solution. We address the underlying causes of the damage to prevent future problems. Whether you have a minor crack or a major structural issue, we can help. We're committed to providing reliable and affordable concrete repair services to homeowners and businesses in New Orleans.",
+        "process": [
+          "Step 1: Damage Assessment – We inspect the damaged concrete to determine the extent of the problem.",
+          "Step 2: Repair Plan – We develop a repair plan based on the assessment.",
+          "Step 3: Concrete Repair – We execute the repairs using proven techniques and high-quality materials.",
+          "Step 4: Prevention – We address the underlying causes of the damage to prevent future problems."
+        ],
+        "benefits": [
+          "Restored structural integrity",
+          "Improved appearance",
+          "Increased safety",
+          "Prevention of further damage"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my concrete needs repair?",
+            "answer": "Common signs of concrete damage include cracks, spalling (flaking), and settlement. If you notice any of these issues, it's best to have your concrete inspected by a professional."
+          },
+          {
+            "question": "Can you repair cracks in my foundation?",
+            "answer": "Yes, we specialize in foundation crack repair. We use epoxy injection and other proven techniques to seal cracks and prevent water intrusion."
+          },
+          {
+            "question": "How long will the repairs last?",
+            "answer": "The longevity of the repairs depends on the extent of the damage and the repair techniques used. We guarantee our work and use materials designed for long-lasting performance."
+          }
+        ]
+      },
+      {
+        "slug": "foundation-services",
+        "name": "Foundation Services",
+        "shortDescription": "Expert foundation repair and construction for the challenging New Orleans environment.",
+        "description": "New Orleans' unique geography and climate demand specialized foundation services. Miles & Sons Cement offers expert foundation repair and new construction solutions tailored to the specific challenges of our region. We understand the risks of soil subsidence, water damage, and termite infestation, and we design our foundations to withstand these threats. Our services include foundation repair, leveling, underpinning, and new foundation construction. We use advanced techniques such as piling and soil stabilization to ensure the long-term stability of your structure. Whether you're building a new home or need to repair an existing foundation, we have the expertise and experience to get the job done right. We work closely with engineers and inspectors to ensure code compliance and structural integrity. We're committed to providing reliable and durable foundation solutions that protect your property for years to come.",
+        "process": [
+          "Step 1: Site Investigation – We conduct a thorough site investigation to assess soil conditions and identify potential foundation problems.",
+          "Step 2: Foundation Design – We design a foundation that meets the specific needs of your property.",
+          "Step 3: Foundation Construction or Repair – We execute the construction or repair with precision and attention to detail.",
+          "Step 4: Quality Assurance – We conduct quality assurance checks to ensure the foundation meets our high standards."
+        ],
+        "benefits": [
+          "Structural stability",
+          "Protection from water damage",
+          "Prevention of settlement",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of foundation problems?",
+            "answer": "Common signs of foundation problems include cracks in walls, uneven floors, sticking doors and windows, and water leaks."
+          },
+          {
+            "question": "How much does foundation repair cost?",
+            "answer": "The cost of foundation repair varies depending on the extent of the damage and the repair techniques used. Contact us for a free inspection and estimate."
+          },
+          {
+            "question": "Do I need a permit for foundation work?",
+            "answer": "Yes, a permit is typically required for foundation work in New Orleans. We handle the permit process for you."
+          }
+        ]
+      },
+      {
+        "slug": "sidewalk-installation",
+        "name": "Sidewalk Installation",
+        "shortDescription": "Safe and durable sidewalk installation that enhances neighborhood walkability.",
+        "description": "Miles & Sons Cement provides sidewalk installation services that prioritize safety, durability, and accessibility in New Orleans. We understand the importance of well-maintained sidewalks for pedestrian safety and neighborhood aesthetics. We install sidewalks that comply with ADA standards and local regulations. Our services include sidewalk construction, repair, and replacement. We use high-quality concrete mixes that are resistant to cracking and weathering. We also ensure proper drainage to prevent water damage and ice buildup. Our team is experienced in working in residential and commercial areas, minimizing disruption to traffic and pedestrians. We handle all aspects of the project, from excavation and grading to pouring and finishing. We're committed to providing sidewalks that are safe, durable, and aesthetically pleasing.",
+        "process": [
+          "Step 1: Site Survey and Design – We survey the site and design the sidewalk to meet local regulations and accessibility standards.",
+          "Step 2: Excavation and Grading – We prepare the site by excavating and leveling the ground.",
+          "Step 3: Concrete Pouring and Finishing – We pour and finish the concrete to create a smooth, durable surface.",
+          "Step 4: Curing and Sealing – We cure and seal the concrete to protect it from the elements."
+        ],
+        "benefits": [
+          "Enhanced pedestrian safety",
+          "Improved accessibility",
+          "Increased property value",
+          "Aesthetically pleasing sidewalks"
+        ],
+        "faq": [
+          {
+            "question": "What are the requirements for sidewalk installation in New Orleans?",
+            "answer": "Sidewalk installation in New Orleans must comply with ADA standards and local regulations. We are familiar with these requirements and ensure compliance."
+          },
+          {
+            "question": "How long does sidewalk installation take?",
+            "answer": "Sidewalk installation typically takes a few days, depending on the size and complexity of the project."
+          },
+          {
+            "question": "Do I need a permit for sidewalk installation?",
+            "answer": "Yes, a permit is required for sidewalk installation in New Orleans. We handle the permit process for you."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-demolition",
+        "name": "Concrete Demolition & Removal",
+        "shortDescription": "Safe and efficient concrete removal services for residential and commercial projects.",
+        "description": "When concrete structures need to be removed, Miles & Sons Cement offers safe and efficient demolition services. Whether you're renovating a property, clearing space for new construction, or removing damaged concrete, we have the expertise and equipment to handle the job. We prioritize safety and environmental responsibility in all our demolition projects. Our services include concrete breaking, cutting, and removal. We use specialized equipment to minimize noise and dust. We also dispose of concrete debris in an environmentally friendly manner. Our team is experienced in working in tight spaces and challenging conditions. We handle all aspects of the project, from site preparation to debris removal. We're committed to providing concrete demolition services that are safe, efficient, and environmentally responsible.",
+        "process": [
+          "Step 1: Site Assessment – We assess the site and develop a demolition plan.",
+          "Step 2: Safety Precautions – We implement safety precautions to protect workers and the surrounding environment.",
+          "Step 3: Concrete Demolition – We demolish the concrete using specialized equipment.",
+          "Step 4: Debris Removal – We remove and dispose of concrete debris in an environmentally friendly manner."
+        ],
+        "benefits": [
+          "Safe and efficient demolition",
+          "Environmentally responsible disposal",
+          "Minimal disruption",
+          "Experienced team"
+        ],
+        "faq": [
+          {
+            "question": "How do you ensure safety during concrete demolition?",
+            "answer": "We prioritize safety by using specialized equipment, implementing safety precautions, and providing our team with thorough training."
+          },
+          {
+            "question": "How do you dispose of concrete debris?",
+            "answer": "We dispose of concrete debris in an environmentally friendly manner, recycling whenever possible and using approved landfills when necessary."
+          },
+          {
+            "question": "Do I need a permit for concrete demolition?",
+            "answer": "Yes, a permit is typically required for concrete demolition in New Orleans. We handle the permit process for you."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "New Orleans",
+        "slug": "new-orleans-la",
+        "state": "LA",
+        "content": "Miles & Sons Cement is proud to offer comprehensive concrete services throughout New Orleans, Louisiana. From the historic French Quarter to the vibrant Garden District, we understand the unique architectural landscape of this iconic city. Our skilled team delivers top-quality concrete solutions for residential, commercial, and industrial projects, ensuring durability and aesthetic appeal that complements the city's charm.\n\nWhether you need a new driveway in Lakeview, a foundation for a building in the Central Business District, or concrete repairs in Uptown, Miles & Sons Cement is your trusted partner. We are committed to providing exceptional workmanship and outstanding customer service, using only the finest materials to ensure long-lasting results. We are experts in navigating the permitting process and adhering to local building codes.",
+        "localContext": "New Orleans is known for its rich history, unique architecture, and resilient spirit. We tailor our concrete services to blend seamlessly with the city's distinct character.",
+        "nearbyAreas": [
+          "Metairie",
+          "Kenner",
+          "Chalmette"
+        ]
+      },
+      {
+        "city": "Metairie",
+        "slug": "metairie-la",
+        "state": "LA",
+        "content": "Miles & Sons Cement extends its expert concrete services to Metairie, Louisiana, a thriving suburb of New Orleans. We cater to the diverse needs of homeowners and businesses in Metairie, providing reliable and affordable concrete solutions. Our services range from driveways and patios to foundations and concrete repairs, ensuring the structural integrity and visual appeal of your property.\n\nWe understand the importance of quality and durability in Metairie's climate. Our experienced team uses proven techniques and premium materials to deliver concrete work that withstands the test of time. We pride ourselves on our attention to detail, professionalism, and commitment to customer satisfaction. Call us today for a free estimate and experience the Miles & Sons Cement difference.",
+        "localContext": "Metairie is a bustling community with a mix of residential and commercial properties. We provide concrete services that meet the unique needs of Metairie residents and business owners.",
+        "nearbyAreas": [
+          "New Orleans",
+          "Kenner",
+          "Harahan"
+        ]
+      },
+      {
+        "city": "Kenner",
+        "slug": "kenner-la",
+        "state": "LA",
+        "content": "Miles & Sons Cement is your trusted concrete contractor in Kenner, Louisiana, providing a wide range of services to meet your construction and renovation needs. We are committed to delivering exceptional workmanship and reliable solutions for residential, commercial, and industrial projects throughout Kenner. From concrete driveways and walkways to foundations and slabs, we have the expertise and experience to handle any job, big or small.\n\nWe understand the specific requirements of Kenner's environment and building codes. Our skilled team ensures that every project is completed to the highest standards, using quality materials and proven techniques. We are dedicated to providing outstanding customer service and exceeding your expectations. Contact us today for a free consultation and let us help you bring your concrete vision to life.",
+        "localContext": "Kenner is a growing city with a strong focus on community and development. We are proud to offer concrete services that contribute to Kenner's growth and prosperity.",
+        "nearbyAreas": [
+          "Metairie",
+          "New Orleans",
+          "River Ridge"
+        ]
+      },
+      {
+        "city": "Chalmette",
+        "slug": "chalmette-la",
+        "state": "LA",
+        "content": "Miles & Sons Cement proudly serves Chalmette, Louisiana, providing high-quality concrete services to residential and commercial clients. We understand the unique needs of this community and are committed to delivering durable, reliable, and aesthetically pleasing concrete solutions. Whether you need a new patio, a concrete driveway, or foundation work, our experienced team is here to help.\n\nWe use only the best materials and employ proven techniques to ensure that your concrete project withstands the test of time. We are dedicated to providing exceptional customer service and exceeding your expectations. We are familiar with all local codes and requirements.",
+        "localContext": "Chalmette is a resilient community with a strong sense of history. We are committed to providing concrete services that contribute to the continued growth and revitalization of Chalmette.",
+        "nearbyAreas": [
+          "New Orleans",
+          "Meraux",
+          "Arabi"
+        ]
+      },
+      {
+        "city": "Gretna",
+        "slug": "gretna-la",
+        "state": "LA",
+        "content": "Miles & Sons Cement is a leading provider of concrete services in Gretna, Louisiana. We offer a comprehensive range of solutions for residential and commercial projects, including driveways, patios, foundations, and concrete repairs. Our experienced team is dedicated to delivering exceptional workmanship and outstanding customer service.\n\nWe understand the importance of quality and durability in Gretna's climate. That's why we use only the finest materials and proven techniques to ensure that your concrete project lasts for years to come. We are committed to exceeding your expectations and providing you with a hassle-free experience.",
+        "localContext": "Gretna is a vibrant city with a rich history and a strong sense of community. We are proud to offer concrete services that contribute to the beauty and functionality of Gretna's homes and businesses.",
+        "nearbyAreas": [
+          "Harvey",
+          "Marrero",
+          "Westwego"
+        ]
+      },
+      {
+        "city": "Harvey",
+        "slug": "harvey-la",
+        "state": "LA",
+        "content": "Miles & Sons Cement offers top-notch concrete services to the residents and businesses of Harvey, Louisiana. We specialize in a variety of concrete projects, from residential driveways and patios to commercial foundations and parking lots. Our team of skilled professionals is committed to providing quality workmanship and unparalleled customer service.\n\nWe understand the unique challenges of working in Harvey's environment and are equipped to handle any project, big or small. We use only the best materials and employ proven techniques to ensure that your concrete project is built to last. Let us help you with your concrete needs.",
+        "localContext": "Harvey is a diverse and growing community with a strong industrial presence. We are dedicated to providing concrete services that support Harvey's continued growth and prosperity.",
+        "nearbyAreas": [
+          "Gretna",
+          "Marrero",
+          "Terrytown"
+        ]
+      },
+      {
+        "city": "Marrero",
+        "slug": "marrero-la",
+        "state": "LA",
+        "content": "Miles & Sons Cement is your trusted partner for all your concrete needs in Marrero, Louisiana. We provide a wide range of services, including concrete driveways, patios, sidewalks, foundations, and repairs. Our experienced team is committed to delivering exceptional quality and customer satisfaction.\n\nWe understand the importance of having reliable and durable concrete surfaces in Marrero. That's why we use only the highest quality materials and employ proven techniques to ensure that your project is built to last. We are dedicated to providing you with a hassle-free experience and exceeding your expectations.",
+        "localContext": "Marrero is a close-knit community with a strong sense of pride. We are committed to providing concrete services that enhance the beauty and functionality of Marrero's homes and businesses.",
+        "nearbyAreas": [
+          "Harvey",
+          "Gretna",
+          "Westwego"
+        ]
+      },
+      {
+        "city": "Westwego",
+        "slug": "westwego-la",
+        "state": "LA",
+        "content": "Miles & Sons Cement is proud to serve the community of Westwego, Louisiana, offering a full spectrum of concrete services to meet your residential and commercial needs. We deliver quality workmanship, from new concrete installations for driveways and patios, to foundation work and concrete repairs. Our expert team is dedicated to providing lasting solutions that enhance the beauty and value of your property.\n\nWe understand the importance of durable and reliable concrete in Westwego's unique environment. Our commitment is to using only the best materials and proven techniques, ensuring that your concrete project withstands the test of time. We strive for excellence in every project and are dedicated to your complete satisfaction. Contact us for a consultation and discover how we can transform your concrete vision into reality.",
+        "localContext": "Westwego is a city known for its strong community bonds and rich cultural heritage. We aim to provide concrete services that reflect and support the character of Westwego.",
+        "nearbyAreas": [
+          "Marrero",
+          "Gretna",
+          "Bridge City"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Driveway Installation",
+        "text": "Miles & Sons Cement did an outstanding job installing our new driveway in Lakeview. The team was professional, efficient, and the finished product is exactly what we wanted. They even helped us navigate the city permitting process. Highly recommended!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Patio Construction",
+        "text": "We hired Miles & Sons to build a patio in our backyard in the Garden District. They did a fantastic job with the design and the construction was solid. There was a slight delay due to weather, but they communicated effectively throughout the process.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 5,
+        "service": "Concrete Repairs",
+        "text": "Our sidewalk in front of our house in Metairie had some major cracks and was a tripping hazard. Miles & Sons Cement came out and repaired it quickly and professionally. It looks great now and is much safer.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "David R.",
+        "rating": 5,
+        "service": "Foundation Services",
+        "text": "After Hurricane Ida, we noticed some cracks in our foundation. Miles & Sons Cement came out and assessed the damage. They provided a detailed repair plan and executed it flawlessly. Our house feels much more stable now. They're experts in New Orleans foundation work.",
+        "date": "2024-08-01"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 4,
+        "service": "Sidewalk Installation",
+        "text": "Miles & Sons installed a new sidewalk for my business in the French Quarter. The job was done quickly and the quality of work was excellent. The only reason I didn't give 5 stars is because communication was a little slow at times.",
+        "date": "2024-07-22"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Concrete Demolition & Removal",
+        "text": "I had an old concrete slab in my backyard that needed to be removed before starting a new landscaping project. Miles & Sons Cement came in and took care of it quickly and efficiently. They left the site clean and tidy. Great service!",
+        "date": "2024-06-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Miles & Sons Cement: New Orleans Concrete",
+        "description": "Reliable concrete contractor in New Orleans. Driveways, patios, foundations, repairs. Free estimates!"
+      },
+      "about": {
+        "title": "About Miles & Sons Cement | New Orleans",
+        "description": "Learn about Miles & Sons Cement, a trusted concrete contractor serving New Orleans for over a decade."
+      },
+      "services": {
+        "title": "Concrete Services | New Orleans | Miles & Sons",
+        "description": "Driveway installation, patio construction, concrete repairs, foundation services, and more in New Orleans."
+      },
+      "contact": {
+        "title": "Contact Miles & Sons Cement | New Orleans",
+        "description": "Contact Miles & Sons Cement for a free estimate on your next concrete project in New Orleans."
+      },
+      "reviews": {
+        "title": "Miles & Sons Cement Reviews | New Orleans",
+        "description": "Read reviews from satisfied customers of Miles & Sons Cement in New Orleans."
+      },
+      "service-areas": {
+        "title": "Concrete Service Areas | New Orleans",
+        "description": "Miles & Sons Cement provides concrete services throughout New Orleans and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "driveway-installation": "/images/service-driveway-installation.webp",
+      "patio-construction": "/images/service-patio-construction.webp",
+      "concrete-repairs": "/images/service-concrete-repairs.webp",
+      "foundation-services": "/images/service-foundation-services.webp",
+      "sidewalk-installation": "/images/service-sidewalk-installation.webp",
+      "concrete-demolition": "/images/service-concrete-demolition.webp"
+    },
+    "servicesResponsive": {
+      "driveway-installation": {
+        "src": "/images/service-driveway-installation.webp",
+        "srcset": "/images/service-driveway-installation-400w.webp 400w, /images/service-driveway-installation-800w.webp 800w, /images/service-driveway-installation-1200w.webp 1200w, /images/service-driveway-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-construction": {
+        "src": "/images/service-patio-construction.webp",
+        "srcset": "/images/service-patio-construction-400w.webp 400w, /images/service-patio-construction-800w.webp 800w, /images/service-patio-construction-1200w.webp 1200w, /images/service-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-repairs": {
+        "src": "/images/service-concrete-repairs.webp",
+        "srcset": "/images/service-concrete-repairs-400w.webp 400w, /images/service-concrete-repairs-800w.webp 800w, /images/service-concrete-repairs-1200w.webp 1200w, /images/service-concrete-repairs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "foundation-services": {
+        "src": "/images/service-foundation-services.webp",
+        "srcset": "/images/service-foundation-services-400w.webp 400w, /images/service-foundation-services-800w.webp 800w, /images/service-foundation-services-1200w.webp 1200w, /images/service-foundation-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sidewalk-installation": {
+        "src": "/images/service-sidewalk-installation.webp",
+        "srcset": "/images/service-sidewalk-installation-400w.webp 400w, /images/service-sidewalk-installation-800w.webp 800w, /images/service-sidewalk-installation-1200w.webp 1200w, /images/service-sidewalk-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-demolition": {
+        "src": "/images/service-concrete-demolition.webp",
+        "srcset": "/images/service-concrete-demolition-400w.webp 400w, /images/service-concrete-demolition-800w.webp 800w, /images/service-concrete-demolition-1200w.webp 1200w, /images/service-concrete-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
